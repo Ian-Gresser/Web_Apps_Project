@@ -1,0 +1,50 @@
+/**
+    Class: SE2840 - Lab 7 - MongoDB Bus Speed Checker
+	Name: Ian Gresser
+	Class Section: 021
+ */
+#map {
+    height: 500px;
+    width: 1000px;
+}
+
+#speedMsg {
+    background-color: lightblue;
+    width: 1000px;
+    height: 40px;
+    padding-top: 5px;
+    text-align: center;
+    vertical-align: center;
+}
+
+body {
+    width: 1000px;
+}
+
+.tRow:hover{
+    background-color: lightgray;
+}
+
+.table{
+    overflow-y:scroll;
+    height:300px;
+
+    display:block;
+}
+
+td{
+    width: 33%;
+}
+
+#speedLabel{
+    width: 10%;
+    background-color: lightgray;
+}
+
+#speedField{
+    width: 80%;
+}
+
+
+
+
